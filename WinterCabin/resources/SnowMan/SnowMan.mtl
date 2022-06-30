@@ -1,0 +1,82 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Carrot
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd uploads_files_2598887_Textures\\depositphotos_56289245-stock-photo-macro-of-carrot-peel-texture.jpg
+
+newmtl Hat
+Ns 62.500000
+Ka 0.3000000 0.3000000 0.3000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl HatShiny
+Ns 62.500000
+Ka 0.800000 0.800000 0.800000
+Kd 0.300000 0.300000 0.300000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Scarf
+Ns 0.000000
+Ka 0.00000 0.000000 0.000000
+Kd 0.800000 0.047835 0.037836
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Ka	uploads_files_2598887_Textures\\Knited_Fabric_001_DISP.png
+map_Kd	uploads_files_2598887_Textures\\Knited_Fabric_001_DISP.png
+map_Bump uploads_files_2598887_Textures\\Knited_Fabric_001_NORM.jpg
+#map_Ns uploads_files_2598887_Textures\\Knited_Fabric_001_ROUGH.jpg
+
+newmtl Snow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump uploads_files_2598887_Textures\\Snow006_2K_Normal.jpg
+map_Kd uploads_files_2598887_Textures\\SnowColor.jpg
+#map_Ns uploads_files_2598887_Textures\\Snow006_2K_Roughness.jpg
+
+newmtl Stone
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.030669 0.030669 0.030669
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+#map_Ns uploads_files_2598887_Textures\\Rock_039_roughness.jpg
+
+newmtl Wood2
+Ns 62.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.159317 0.053213 0.018436
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+map_Kd uploads_files_2598887_Textures\\color_bark.jpg
+Ni 1.450000
+d 1.000000
+illum 2
